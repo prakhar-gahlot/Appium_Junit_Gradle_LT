@@ -1,0 +1,1 @@
+D:\repos\kotlin-gradle\cleanAppium\build\classes\kotlin\main\MainKt.class
